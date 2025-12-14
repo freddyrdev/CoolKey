@@ -1,1 +1,12 @@
 @import "tailwindcss";
+
+:root {
+    /* Colores generales */
+    --fondoGeneral: #ffffff;
+    --textoGeneral: #2b2b2b;
+    --textoSecundario: #3d3d3d;
+    
+    /* Colores especificos */
+    --fondoBoton: #2b2b2b;
+    --textoBoton: #FAF8F4;
+}
