@@ -52,8 +52,6 @@ export const Landing = () => {
                     </div>
                 </div>
             </section>
-
-            <section></section>
         </main>
     )
 }
